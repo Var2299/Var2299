@@ -4,7 +4,7 @@
    - Proficient in C++ and actively expanding my knowledge.
    - Fluent with languages like JavaScript, HTML, CSS.
    - Exploring backend development with Node.js
-   - Enthusiastic learner in the fields of web development and [any other area of interest].
+
 
 🏆 Achievements:
    - Secured 3rd place in the Xeta X HackerRank Coding Competition.
