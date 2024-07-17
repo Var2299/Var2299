@@ -39,13 +39,13 @@ I have solved several problems on SPOJ to enhance my problem-solving skills and 
 Here are some of my key projects:
 
 ### DeFi Web3 App
--[DeFi Web3 App](https://github.com/Var2299/Web3-Decentralized-Banking)
+- [DeFi Web3 App](https://github.com/Var2299/Web3-Decentralized-Banking)
 
 ### ChatMingle (Real-time Chat Application)
--[ChatMingle (Real-time Chat Application)](https://github.com/Var2299/ChatMingle-Chat-Application-)
+- [ChatMingle (Real-time Chat Application)](https://github.com/Var2299/ChatMingle-Chat-Application-)
 
 ### BooksExplorer (Books Search Application)
--[BooksExplorer (Books Search Application)](https://github.com/Var2299/BooksExplorer-Information-Retrieval-System-)
+- [BooksExplorer (Books Search Application)](https://github.com/Var2299/BooksExplorer-Information-Retrieval-System-)
 
 ### Weather App
 - [Weather App](https://github.com/Var2299/React-Weather-App)
