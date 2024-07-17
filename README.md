@@ -35,6 +35,31 @@ I have solved several problems on SPOJ to enhance my problem-solving skills and 
 |:---:|:------:|:-------:|:--------------:|:---------:|
 |<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|<img src="definity.jpg" alt="" width="100" height="100">|<img src="candid.png" alt="" width="100" height="100">|
 
+## Important projects
+Here are some of my key projects that demonstrate my skills and expertise in full-stack web development:
+
+### DeFi Web3 App
+
+A decentralized banking application on the IC blockchain with features such as balance management and compounding interest. Integrates HTML/CSS/JS front-end with Motoko backend, and utilizes @dfinity/agent for efficient canister interactions.
+[DeFi Web3 App](https://github.com/Var2299/Web3-Decentralized-Banking)
+
+### ChatMingle (Real-time Chat Application)
+
+A real-time messaging application using React.js and Node.js with Socket.IO. It supports instant messaging, multi-user chat, and stores chat history in MongoDB.
+[ChatMingle (Real-time Chat Application)](https://github.com/Var2299/ChatMingle-Chat-Application-)
+
+### BooksExplorer (Books Search Application)
+
+A book search application developed with React.js and Node.js, integrated with Google Books API for efficient information retrieval. Utilizes NLP for sentiment analysis of book descriptions, offering a responsive user interface with search functionality and pagination.
+[BooksExplorer (Books Search Application)](https://github.com/Var2299/BooksExplorer-Information-Retrieval-System-)
+
+### Weather App
+
+It allows users to search for the weather conditions of any city in the world and provides current weather information. The app fetches weather data using the SheCodes Weather API.
+[Weather App](https://github.com/Var2299/React-Weather-App)
+
+In addition to these projects, I have worked on other interesting projects such as TODO App, QuickSign App, Simon Game, Keylogger. You can find these and more on my [GitHub profile](https://github.com/Var2299)
+
 ## Online Courses
 - [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=THANKSLEARNER24)
 - [MERN  FullStack Web Development ](https://courses.30dayscoding.com/courses/MERN-full-stack-web-development-64eebdb8e4b0a14befedc15d)
