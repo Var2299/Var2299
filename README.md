@@ -4,8 +4,8 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ### Languages and tools
 ## Programming Languages
 | JavaScript | C++ | C |
-|![JS](frameworks/android.svg)|-----|---|
-<img src="javascript.svg" alt="JavaScript Logo" width="100" height="100">
+|<img src="frameworks/android.svg" alt="JavaScript Logo" width="100" height="100">)|-----|---|
+
 
 ## Web Technologies
 | React.js | Node.js | Express.js | HTML | CSS | Web3 |
