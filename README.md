@@ -3,8 +3,7 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 
 ### Languages and tools
 ## Programming Languages
-| JavaScript                                                                       | C++ | C |
-|<img src="frameworks/android.svg" alt="JavaScript Logo" width="100" height="100">)|-----|---|
+![JavaScript](<img src="frameworks/android.svg" alt="JavaScript Logo" width="100" height="100">)) ![C++](path/to/cpp.svg) ![C](path/to/c.svg)
 
 
 ## Web Technologies
