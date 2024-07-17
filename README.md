@@ -3,8 +3,8 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 
 I am actively exploring the potential of Web3 technologies, which revolutionize the internet by decentralizing data and transactions, ensuring enhanced security and user autonomy. 
 
-I have solved several problems on SPOJ to enhance my problem-solving skills and deepen my understanding of algorithms. Additionally, I secured 3rd place in the Xeta X HackerRank Coding Competition held at my university.
-- [SPOJ Profile](https://www.spoj.com/users/varun_01)
+I have solved several problems on SPOJ to enhance my problem-solving skills and deepen my understanding of algorithms [SPOJ Profile](https://www.spoj.com/users/varun_01).
+
 ## Languages and tools
 
 ### Programming Languages
@@ -34,6 +34,12 @@ I have solved several problems on SPOJ to enhance my problem-solving skills and 
 | Git | GitHub | VS Code | @dfinity/agent | Candid UI |
 |:---:|:------:|:-------:|:--------------:|:---------:|
 |<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|<img src="definity.jpg" alt="" width="100" height="100">|<img src="candid.png" alt="" width="100" height="100">|
+
+## Online Courses
+- [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=THANKSLEARNER24)
+- [MERN  FullStack Web Development ](https://courses.30dayscoding.com/courses/MERN-full-stack-web-development-64eebdb8e4b0a14befedc15d)
+- [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/?couponCode=THANKSLEARNER24)
+- [Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/course/cpp-deep-dive/?couponCode=THANKSLEARNER24)
 
 
 <!--
