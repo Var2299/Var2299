@@ -18,7 +18,7 @@ I have solved several problems on SPOJ to enhance my problem-solving skills and 
 ### Web Technologies
 | React.js | Node.js | Express.js | HTML | CSS | Web3 |
 |:--------:|:-------:|:----------:|:----:|:---:|:----:|
-|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|-<img src="css.png" alt="" width="100" height="100">|<img src="3.png" alt="" width="100" height="100">|
+|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|<img src="css.png" alt="" width="100" height="100">|<img src="3.png" alt="" width="100" height="100">|
 
 ### Blockchain Technologies
 | IC blockchain | Motoko |
@@ -39,7 +39,6 @@ I have solved several problems on SPOJ to enhance my problem-solving skills and 
 - [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=THANKSLEARNER24)
 - [MERN  FullStack Web Development ](https://courses.30dayscoding.com/courses/MERN-full-stack-web-development-64eebdb8e4b0a14befedc15d)
 - [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/?couponCode=THANKSLEARNER24)
-- [Learn C++ Programming -Beginner to Advance- Deep Dive in C++](https://www.udemy.com/course/cpp-deep-dive/?couponCode=THANKSLEARNER24)
 
 
 <!--
