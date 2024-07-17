@@ -5,7 +5,7 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Programming Languages
 | JavaScript | C++ | C |
 |:----------:|:---:|:-:|
-| ![JavaScript Logo](<img src="frameworks/android.svg" alt="JavaScript Logo" width="100" height="100">) | ![C++ Logo](https://example.com/cpp-logo.svg) | ![C Logo](https://example.com/c-logo.svg) |
+| ![JavaScript Logo](<img src="frameworks/android.svg" alt="" width="100" height="100">) | ![C++ Logo](https://example.com/cpp-logo.svg) | ![C Logo](https://example.com/c-logo.svg) |
 
 
 
