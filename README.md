@@ -44,8 +44,8 @@ Here are some of my key projects:
 ### ChatMingle (Real-time Chat Application)
 - [ChatMingle (Real-time Chat Application)](https://github.com/Var2299/ChatMingle-Chat-Application-)
 
-### BooksExplorer (Books Search Application)
-- [BooksExplorer (Books Search Application)](https://github.com/Var2299/BooksExplorer-Information-Retrieval-System-)
+### BooksExplorer-NLP-Enhanced
+- [BooksExplorer-NLP-Enhanced](https://github.com/Var2299/BooksExplorer-NLP-Enhanced)
 
 ### Weather App
 - [Weather App](https://github.com/Var2299/React-Weather-App)
