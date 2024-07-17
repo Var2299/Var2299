@@ -5,7 +5,7 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Programming Languages
 | JavaScript | C++ | C |
 |:----------:|:---:|:-:|
-| <img src="programming languages/javascript.svg" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
+| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
 
 
 
@@ -13,18 +13,21 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Web Technologies
 | React.js | Node.js | Express.js | HTML | CSS | Web3 |
 |:--------:|:-------:|:----------:|:----:|:---:|:----:|
-|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|-<img src="css.png" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|
+|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|-<img src="css.png" alt="" width="100" height="100">|<img src="3.png" alt="" width="100" height="100">|
 
 ## Blockchain Technologies
 | IC blockchain | Motoko |
-|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="motoko.png" alt="" width="100" height="100">|
+|:-------------:|:------:|
+|<img src="blk.png" alt="" width="100" height="100">|<img src="motoko.png" alt="" width="100" height="100">|
 
 ## Database
 | MongoDB |
+|:-------:|
 |<img src="databases/mongodb.svg" alt="" width="100" height="100">|
 
 ## Tools
 | Git | GitHub | VS Code | @dfinity/agent | Candid UI |
+|:---:|:------:|:-------:|:--------------:|:---------:|
 |<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|<img src="definity.jpg" alt="" width="100" height="100">|<img src="candid.png" alt="" width="100" height="100">|
 
 
