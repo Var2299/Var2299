@@ -12,7 +12,7 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 
 ## Web Technologies
 | React.js | Node.js | Express.js | HTML | CSS | Web3 |
-|:--------:|:-------:|:----------:||:---:|:---:|:----:|
+|:--------:|:-------:|:----------:|:----:|:---:|:----:|
 |<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|-<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|
 
 ## Blockchain Technologies
