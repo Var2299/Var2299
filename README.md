@@ -5,26 +5,26 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Programming Languages
 | JavaScript | C++ | C |
 |:----------:|:---:|:-:|
-| <img src="programming languages/javascript.svg" alt="" width="100" height="100"> | ![C++ Logo](https://example.com/cpp-logo.svg) | ![C Logo](https://example.com/c-logo.svg) |
+| <img src="programming languages/javascript.svg" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
 
 
 
 
 ## Web Technologies
 | React.js | Node.js | Express.js | HTML | CSS | Web3 |
-|----------|---------|------------|------|-----|------|
+|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|-<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|
 
 ## Blockchain Technologies
 | IC blockchain | Motoko |
-|----------------|--------|
+|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|
 
 ## Database
 | MongoDB |
-|---------|
+|<img src="databases/mongodb.svg" alt="" width="100" height="100">|
 
 ## Tools
 | Git | GitHub | VS Code | @dfinity/agent | Candid UI |
-|-----|--------|---------|----------------|-----------|
+|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|<img src="programming languages/javascript.svg" alt="" width="100" height="100">|
 
 
 <!--
