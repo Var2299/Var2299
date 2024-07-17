@@ -3,8 +3,10 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 
 I am actively exploring the potential of Web3 technologies, which revolutionize the internet by decentralizing data and transactions, ensuring enhanced security and user autonomy. 
 
-
+I have solved several problems on SPOJ to enhance my problem-solving skills and deepen my understanding of algorithms. Additionally, I secured 3rd place in the Xeta X HackerRank Coding Competition held at my university.
+- [SPOJ Profile](https://www.spoj.com/users/varun_01)
 ## Languages and tools
+
 ### Programming Languages
 | JavaScript | C++ | C |
 |:----------:|:---:|:-:|
