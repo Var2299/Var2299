@@ -52,6 +52,10 @@ Here are some of my key projects:
 
 In addition to these projects, I have worked on other interesting projects such as TODO App, QuickSign App, Simon Game, Keylogger. You can find these and more on my [profile.](https://github.com/Var2299?tab=repositories)
 
+## Social Media
+
+[Linked in](https://www.linkedin.com/in/varun-singh-0a3a67175/)
+
 ## Online Courses
 - [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=THANKSLEARNER24)
 - [MERN  FullStack Web Development ](https://courses.30dayscoding.com/courses/MERN-full-stack-web-development-64eebdb8e4b0a14befedc15d)
