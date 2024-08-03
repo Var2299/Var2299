@@ -14,11 +14,15 @@ I have solved several problems on SPOJ to enhance my problem-solving skills and 
 
 
 ### Web Technologies
-| React.js | Node.js | Express.js | HTML | CSS | 
-|:--------:|:-------:|:----------:|:----:|:---:|
-|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|<img src="css.png" alt="" width="100" height="100">|
+| React.js | Node.js | Express.js | HTML | CSS | Web3 |
+|:--------:|:-------:|:----------:|:----:|:---:|:----:|
+|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|<img src="css.png" alt="" width="100" height="100">|<img src="3.png" alt="" width="100" height="100">|
 
 
+### Blockchain Technologies
+| IC blockchain | Motoko |
+|:-------------:|:------:|
+|<img src="blk.png" alt="" width="100" height="100">|<img src="motoko.png" alt="" width="100" height="100">|
 
 ### Database
 | MongoDB |
@@ -26,9 +30,9 @@ I have solved several problems on SPOJ to enhance my problem-solving skills and 
 |<img src="databases/mongodb.svg" alt="" width="100" height="100">|
 
 ### Tools
-| Git | GitHub | VS Code | 
-|:---:|:------:|:-------:|
-|<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|
+| Git | GitHub | VS Code | dfinity |  
+|:---:|:------:|:-------:|:-------:|
+|<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|<img src="definity.jpg" alt="" width="100" height="100">|
 
 ## Important projects
 Here are some of my key projects:
