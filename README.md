@@ -37,6 +37,9 @@ I have solved several problems on SPOJ to enhance my problem-solving skills and 
 ## Important projects
 Here are some of my key projects:
 
+### Web3-Decentralized-Banking
+- [Web3-Decentralized-Banking](https://github.com/Var2299/Web3-Decentralized-Banking)
+
 ### ChatMingle (Real-time Chat Application)
 - [ChatMingle (Real-time Chat Application)](https://github.com/Var2299/ChatMingle-Chat-Application-)
 
