@@ -1,7 +1,6 @@
 ## About-me 👋
-I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Through hands-on projects and competitive programming, I've honed my problem-solving skills to explore new possibilities. Looking forward to using the MERN stack and advanced tools to deliver impactful solutions in tech.
+I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Looking forward to using the MERN stack and advanced tools to deliver impactful solutions in tech.
 
-I have solved several problems on SPOJ to enhance my problem-solving skills and deepen my understanding of algorithms [SPOJ Profile](https://www.spoj.com/users/varun_01).
 
 ## Languages and tools
 
