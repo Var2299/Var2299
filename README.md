@@ -1,5 +1,5 @@
 ## About-me 👋
-I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Looking forward to using the MERN stack and advanced tools to deliver impactful solutions in tech.
+I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Looking forward to using advanced tools to deliver impactful solutions in tech.
 
 
 ## Languages and tools
