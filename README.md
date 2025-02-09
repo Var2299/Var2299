@@ -43,11 +43,11 @@ Here are some of my key projects:
 ### DocSync-App
 - [DocSync-App](https://github.com/Var2299/DocSync-App)
 
-### BooksExplorer (Enhanced Book Search Application)
-- [BooksExplorer (Enhanced Book Search Application)](https://github.com/Var2299/BooksExplorer-Enhanced-Book-Search-Application-)
+### LexiSense
+- [LexiSense](https://lexi-sense.vercel.app)
 
-### Weather App
-- [Weather App](https://github.com/Var2299/React-Weather-App)
+### SkyPulse
+- [SkyPulse](https://sky-pulse-eta.vercel.app)
 
 In addition to these projects, I have worked on other interesting projects such as TODO App, QuickSign App, Simon Game, Keylogger. You can find these and more on my [profile.](https://github.com/Var2299?tab=repositories)
 
