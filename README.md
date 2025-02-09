@@ -5,23 +5,28 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Languages and tools
 
 ### Programming Languages
-| JavaScript | C++ | C |
-|:----------:|:---:|:-:|
-| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
+| TypeScript | JavaScript | C++ | C |
+|:----------:|:----------:|:---:|:-:|
+| <img src="frameworks/ts.png" alt="" width="100" height="100">| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
 
 
 
 
 ### Web Technologies
-| Next.js | React.js | Node.js | Express.js | HTML | CSS |
-|:-------:|:--------:|:-------:|:----------:|:----:|:---:|
-|<img src="frameworks/next.png" alt="" width="100" height="100">|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|<img src="css.png" alt="" width="100" height="100">|
+| Next.js | React.js | Node.js | Express.js | HTML | CSS | Tailwind | Liveblocks |
+|:-------:|:--------:|:-------:|:----------:|:----:|:---:|:--------:|:----------:|
+|<img src="frameworks/next.png" alt="" width="100" height="100">|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|<img src="css.png" alt="" width="100" height="100">|<img src="frameworks/tail.png" alt="" width="100" height="100">|<img src="frameworks/lb.png" alt="" width="100" height="100">|
 
 
 ### Database
-| MongoDB |
-|:-------:|
-|<img src="databases/mongodb.svg" alt="" width="100" height="100">|
+| MongoDB | Convex |
+|:-------:|:------:|
+|<img src="databases/mongodb.svg" alt="" width="100" height="100">|<img src="frameworks/cv.png" alt="" width="100" height="100">|
+
+### Authentication
+| Clerk |
+|:-----:|
+|<img src="frameworks/clerk.png" alt="" width="100" height="100">|
 
 ### Tools
 | Git | GitHub | VS Code | 
