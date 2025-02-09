@@ -44,10 +44,10 @@ Here are some of my key projects:
 - [DocSync-App](https://github.com/Var2299/DocSync-App)
 
 ### LexiSense
-- [LexiSense](https://lexi-sense.vercel.app)
+- [LexiSense](https://github.com/Var2299/LexiSense)
 
 ### SkyPulse
-- [SkyPulse](https://sky-pulse-eta.vercel.app)
+- [SkyPulse](https://github.com/Var2299/SkyPulse)
 
 In addition to these projects, I have worked on other interesting projects such as TODO App, QuickSign App, Simon Game, Keylogger. You can find these and more on my [profile.](https://github.com/Var2299?tab=repositories)
 
