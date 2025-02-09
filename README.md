@@ -14,7 +14,7 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 
 ### Web Technologies
 | Next.js || React.js | Node.js | Express.js | HTML | CSS |
-|:--------:||:--------:|:-------:|:----------:|:----:|:---:|
+|:-------:||:--------:|:-------:|:----------:|:----:|:---:|
 |<img src="frameworks/nextjs-icon-svgrepo-com.svg" alt="" width="100" height="100">|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="100">|<img src="html.png" alt="" width="100" height="100">|<img src="css.png" alt="" width="100" height="100">|
 
 
