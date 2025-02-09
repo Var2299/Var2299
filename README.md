@@ -49,7 +49,6 @@ Here are some of my key projects:
 ### SkyPulse
 - [SkyPulse](https://github.com/Var2299/SkyPulse)
 
-In addition to these projects, I have worked on other interesting projects such as TODO App, QuickSign App, Simon Game, Keylogger. You can find these and more on my [profile.](https://github.com/Var2299?tab=repositories)
 
 ## Social Media
 
