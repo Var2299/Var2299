@@ -21,7 +21,7 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ### Database
 | MongoDB | Convex |
 |:-------:|:------:|
-|<img src="databases/mongodb.svg" alt="" width="100" height="100">|<img src="frameworks/cv.png" alt="" width="100" height="100">|
+|<img src="databases/mongodb.svg" alt="" width="100" height="100">|<img src="frameworks/ccv.png" alt="" width="100" height="100">|
 
 ### Authentication
 | Clerk |
