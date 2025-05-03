@@ -43,8 +43,8 @@ Here are some of my key projects:
 ### DocSync-App
 - [DocSync-App](https://github.com/Var2299/DocSync-App)
 
-### LexiSense
-- [LexiSense](https://github.com/Var2299/LexiSense)
+### LexiSense-App
+- [LexiSense-App](https://github.com/Var2299/LexiSense-App)
 
 ### SkyPulse
 - [SkyPulse](https://github.com/Var2299/SkyPulse)
