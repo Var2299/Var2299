@@ -40,14 +40,14 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Important projects
 Here are some of my key projects:
 
+### bert-news-classifier-
+- [bert-news-classifier-](https://github.com/Var2299/bert-news-classifier-)
+  
 ### DocSync-App
 - [DocSync-App](https://github.com/Var2299/DocSync-App)
 
 ### LexiSense-App
 - [LexiSense-App](https://github.com/Var2299/LexiSense-App)
-
-### SkyPulse
-- [SkyPulse](https://github.com/Var2299/SkyPulse)
 
 
 ## Social Media
