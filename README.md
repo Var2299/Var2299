@@ -39,16 +39,15 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 
 ## Important projects
 Here are some of my key projects:
-
-### bert-news-classifier-
-- [bert-news-classifier-](https://github.com/Var2299/bert-news-classifier-)
   
 ### DocSync-App
 - [DocSync-App](https://github.com/Var2299/DocSync-App)
 
-### LexiSense-App
-- [LexiSense-App](https://github.com/Var2299/LexiSense-App)
+### Personal-Finance-Visualizer
+- [Personal-Finance-Visualizer](https://github.com/Var2299/Personal-Finance-Visualizer)
 
+### AI-Enhanced-PDF-Generator
+- [AI-Enhanced-PDF-Generator](https://github.com/Var2299/AI-Enhanced-PDF-Generator)
 
 ## Social Media
 
