@@ -29,12 +29,14 @@ Excel · CSV / JSON handling · Git · GitHub · VS Code · basic shell / CLI
 ### Customer Churn Analysis — Power BI + Python
 - **What:** End-to-end churn analysis identifying churn drivers and tenure effects.  
 - **Built with:** Python (pandas) → aggregated datasets → Power BI dashboards (stacked bar, ribbon, waterfall).  
-- **Deliverables:** Cleaned CSV, Google Colab notebook, interactive Power BI report with **3 concrete business recommendations**.  
+- **Deliverables:** Cleaned CSV, Google Colab notebook, interactive Power BI report with **3 concrete business recommendations**.
+- **Link:**[Notebook](https://colab.research.google.com/drive/1uoq28Np4Pr-0KU6XxTvWK5RQDbHpJmUp?usp=sharing)
 
 ### RFM Segmentation & Cohort Analysis — Python + Power BI
 - **What:** RFM scoring to segment customers and recommend retention tactics; cohort analysis for LTV trends.  
 - **Built with:** Python (pandas, matplotlib) + Power BI dashboards for segmentation and playbook.  
-- **Deliverables:** RFM output CSV, Colab notebook, Power BI report with **segment action plan**.  
+- **Deliverables:** RFM output CSV, Colab notebook, Power BI report with **segment action plan**.
+- **Link:**[Notebook](https://colab.research.google.com/drive/1PcxrNaYw74elZM0acHunF9PIGnQe83jx?usp=sharing) 
 
 ---
 
