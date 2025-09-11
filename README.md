@@ -40,7 +40,7 @@ Excel · CSV / JSON handling · Git · GitHub · VS Code · basic shell / CLI
 
 ---
 
-## Minimal Dev Footprint
+## Dev
 I maintain a few engineering projects to show coding rigor, but my public focus here is analytics:  
 
 ### DocSync-App
