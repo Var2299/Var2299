@@ -24,7 +24,7 @@ Excel · CSV / JSON handling · Git · GitHub · VS Code · basic shell / CLI
 
 ---
 
-## Selected Data Analytics Projects
+## Data Analytics Projects
 
 ### Customer Churn Analysis 
 - **What:** End-to-end churn analysis identifying churn drivers and tenure effects.  
