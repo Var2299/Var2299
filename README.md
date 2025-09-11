@@ -1,45 +1,46 @@
 ## About-me 👋
-I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Looking forward to using advanced tools to deliver impactful solutions in tech.
+I’m a **Data Analytics–focused candidate (7th semester)** actively seeking **Data Analytics internships this semester**.  
+I deliver fast, actionable insights from messy data — from cleaning and exploratory data analysis (EDA) to dashboard-level visual storytelling and clear business recommendations.  
+I work primarily with **Python, SQL, Power BI, and Google Colab** to create reproducible analyses that hiring managers can evaluate quickly.
 
+---
 
 ## Languages and tools
 
-### Programming Languages
-| TypeScript | JavaScript | C++ | C |
-|:----------:|:----------:|:---:|:-:|
-| <img src="frameworks/ts.png" alt="" width="100" height="100">| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
+**Languages & libraries**  
+Python · pandas · NumPy · SQL (SQLite / basic MySQL)  
 
+**Data & analytics**  
+Exploratory Data Analysis (EDA) · Data cleaning & feature engineering · RFM segmentation · Churn analysis · Aggregation & KPIs  
 
+**Modeling (basic / practical)**  
+scikit-learn (basic) · simple classification/regression for insights  
 
+**Visualization & reporting**  
+Power BI · Google Colab · Jupyter Notebooks · matplotlib · seaborn · dashboard storytelling  
 
-### Web Technologies
-| Next.js | React.js | Node.js | Express.js | HTML |
-|:-------:|:--------:|:-------:|:----------:|:----:|
-|<img src="frameworks/next.png" alt="" width="100" height="100">|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="60">|<img src="html.png" alt="" width="100" height="100">|
+**Tools**  
+Excel · CSV / JSON handling · Git · GitHub · VS Code · basic shell / CLI  
 
-| CSS | Tailwind | Liveblocks |
-|:---:|:--------:|:---------:|
-|<img src="css.png" alt="" width="100" height="100">|<img src="frameworks/tail.png" alt="" width="100" height="100">|<img src="frameworks/lb.png" alt="" width="100" height="100">|
+---
 
+## Selected Data Analytics Projects
 
-### Database
-| MongoDB | Convex |
-|:-------:|:------:|
-|<img src="databases/mongodb.svg" alt="" width="100" height="100">|<img src="frameworks/ccv.png" alt="" width="100" height="100">|
+### Customer Churn Analysis — Power BI + Python
+- **What:** End-to-end churn analysis identifying churn drivers and tenure effects.  
+- **Built with:** Python (pandas) → aggregated datasets → Power BI dashboards (stacked bar, ribbon, waterfall).  
+- **Deliverables:** Cleaned CSV, Google Colab notebook, interactive Power BI report with **3 concrete business recommendations**.  
 
-### Authentication
-| Clerk |
-|:-----:|
-|<img src="frameworks/clerk.png" alt="" width="100" height="100">|
+### RFM Segmentation & Cohort Analysis — Python + Power BI
+- **What:** RFM scoring to segment customers and recommend retention tactics; cohort analysis for LTV trends.  
+- **Built with:** Python (pandas, matplotlib) + Power BI dashboards for segmentation and playbook.  
+- **Deliverables:** RFM output CSV, Colab notebook, Power BI report with **segment action plan**.  
 
-### Tools
-| Git | GitHub | VS Code | 
-|:---:|:------:|:-------:|
-|<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|
+---
 
-## Important projects
-Here are some of my key projects:
-  
+## Minimal Dev Footprint
+I maintain a few engineering projects to show coding rigor, but my public focus here is analytics:  
+
 ### DocSync-App
 - [DocSync-App](https://github.com/Var2299/DocSync-App)
 
@@ -49,27 +50,22 @@ Here are some of my key projects:
 ### AI-Enhanced-PDF-Generator
 - [AI-Enhanced-PDF-Generator](https://github.com/Var2299/AI-Enhanced-PDF-Generator)
 
+---
+
 ## Social Media
+- [LinkedIn](https://www.linkedin.com/in/varun-singh-0a3a67175/)
 
-[Linked in](https://www.linkedin.com/in/varun-singh-0a3a67175/)
+---
 
-## Online Courses
-- [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=THANKSLEARNER24)
-- [MERN  FullStack Web Development ](https://courses.30dayscoding.com/courses/MERN-full-stack-web-development-64eebdb8e4b0a14befedc15d)
-- [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/?couponCode=THANKSLEARNER24)
+## Quick Outcomes I Deliver
+- Cleaned, well-documented datasets ready for reuse.  
+- Interactive dashboards highlighting top 3 business actions.  
+- One-page insight summary (Problem → Approach → Findings → Recommendation) for each project.
 
+---
 
-<!--
-**Var2299/Var2299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to view / run my analytics work
+1. Open the Google Colab / Jupyter notebook link in each project.  
+2. Install dependencies: `pandas`, `numpy`, `matplotlib`, `scikit-learn`.  
+3. Run cells top → bottom.  
+4. View the linked Power BI report for interactive dashboards and check the README’s “insights” section for TL;DR.
