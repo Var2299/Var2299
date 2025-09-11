@@ -1,5 +1,5 @@
 ## About-me 👋
-I’m a **Data Analytics–focused candidate (7th semester)** actively seeking **Data Analytics internships**.  
+I’m a Computer Science undergraduate (7th semester) actively seeking **Data Analytics internships**.  
 I deliver fast, actionable insights from messy data — from cleaning and exploratory data analysis (EDA) to dashboard-level visual storytelling and clear business recommendations.  
 I work primarily with **Python, SQL, Power BI, and Google Colab** to create reproducible analyses that hiring managers can evaluate quickly.
 
