@@ -40,18 +40,6 @@ Excel · CSV / JSON handling · Git · GitHub · VS Code · basic shell / CLI
 
 ---
 
-## Dev
-I maintain a few engineering projects to show coding rigor, but my public focus here is analytics:  
-
-### DocSync-App
-- [DocSync-App](https://github.com/Var2299/DocSync-App)
-
-### Personal-Finance-Visualizer
-- [Personal-Finance-Visualizer](https://github.com/Var2299/Personal-Finance-Visualizer)
-
-### AI-Enhanced-PDF-Generator
-- [AI-Enhanced-PDF-Generator](https://github.com/Var2299/AI-Enhanced-PDF-Generator)
-
 ---
 
 ## Social Media
