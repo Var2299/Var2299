@@ -41,7 +41,7 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 Here are some of my key projects:
   
 ### DocSync-App
-- [DocSync-App](https://github.com/Var2299/DocSync-App)
+- [AI-Meeting-Summarizer](https://github.com/Var2299/AI-Meeting-Summarizer)
 
 ### Personal-Finance-Visualizer
 - [Personal-Finance-Visualizer](https://github.com/Var2299/Personal-Finance-Visualizer)
