@@ -1,61 +1,75 @@
 ## About-me 👋
-I’m a Computer Science undergraduate (7th semester) actively seeking **Data Analytics internships**.  
-I deliver fast, actionable insights from messy data — from cleaning and exploratory data analysis (EDA) to dashboard-level visual storytelling and clear business recommendations.  
-I work primarily with **Python, SQL, Power BI, and Google Colab** to create reproducible analyses that hiring managers can evaluate quickly.
+I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Looking forward to using advanced tools to deliver impactful solutions in tech.
 
----
 
 ## Languages and tools
 
-**Languages & libraries**  
-Python · pandas · NumPy · SQL (SQLite / basic MySQL)  
+### Programming Languages
+| TypeScript | JavaScript | C++ | C |
+|:----------:|:----------:|:---:|:-:|
+| <img src="frameworks/ts.png" alt="" width="100" height="100">| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
 
-**Data & analytics**  
-Exploratory Data Analysis (EDA) · Data cleaning & feature engineering · RFM segmentation · Churn analysis · Aggregation & KPIs  
 
-**Modeling (basic / practical)**  
-scikit-learn (basic) · simple classification/regression for insights  
 
-**Visualization & reporting**  
-Power BI · Google Colab · Jupyter Notebooks · matplotlib · seaborn · dashboard storytelling  
 
-**Tools**  
-Excel · CSV / JSON handling · Git · GitHub · VS Code · basic shell / CLI  
+### Web Technologies
+| Next.js | React.js | Node.js | Express.js | HTML |
+|:-------:|:--------:|:-------:|:----------:|:----:|
+|<img src="frameworks/next.png" alt="" width="100" height="100">|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="60">|<img src="html.png" alt="" width="100" height="100">|
 
----
+| CSS | Tailwind | Liveblocks |
+|:---:|:--------:|:---------:|
+|<img src="css.png" alt="" width="100" height="100">|<img src="frameworks/tail.png" alt="" width="100" height="100">|<img src="frameworks/lb.png" alt="" width="100" height="100">|
 
-## Data Analytics Projects
 
-### Customer Churn Analysis 
-- **What:** End-to-end churn analysis identifying churn drivers and tenure effects.  
-- **Built with:** Python (pandas) → aggregated datasets → Power BI dashboards (stacked bar, ribbon, waterfall).  
-- **Deliverables:** Cleaned CSV, Google Colab notebook, interactive Power BI report with **3 concrete business recommendations**.
-- **Link:**[Notebook](https://colab.research.google.com/drive/1uoq28Np4Pr-0KU6XxTvWK5RQDbHpJmUp?usp=sharing) . [Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+### Database
+| MongoDB | Convex |
+|:-------:|:------:|
+|<img src="databases/mongodb.svg" alt="" width="100" height="100">|<img src="frameworks/ccv.png" alt="" width="100" height="100">|
 
-### E-commerce-RFM-Product-Prioritization 
-- **What:** RFM scoring to segment customers and recommend retention tactics;
-- **Built with:** Python (pandas, matplotlib) + Power BI dashboards for segmentation and playbook.  
-- **Deliverables:** RFM output CSV, Colab notebook, Power BI report with **segment action plan**.
-- **Link:**[Notebook](https://colab.research.google.com/drive/1PcxrNaYw74elZM0acHunF9PIGnQe83jx?usp=sharing) . [Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
+### Authentication
+| Clerk |
+|:-----:|
+|<img src="frameworks/clerk.png" alt="" width="100" height="100">|
 
----
+### Tools
+| Git | GitHub | VS Code | 
+|:---:|:------:|:-------:|
+|<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|
 
----
+## Important projects
+Here are some of my key projects:
+  
+### DocSync-App
+- [DocSync-App](https://github.com/Var2299/DocSync-App)
+
+### Personal-Finance-Visualizer
+- [Personal-Finance-Visualizer](https://github.com/Var2299/Personal-Finance-Visualizer)
+
+### AI-Enhanced-PDF-Generator
+- [AI-Enhanced-PDF-Generator](https://github.com/Var2299/AI-Enhanced-PDF-Generator)
 
 ## Social Media
-- [LinkedIn](https://www.linkedin.com/in/varun-singh-0a3a67175/)
 
----
+[Linked in](https://www.linkedin.com/in/varun-singh-0a3a67175/)
 
-## Quick Outcomes I Deliver
-- Cleaned, well-documented datasets ready for reuse.  
-- Interactive dashboards highlighting top 3 business actions.  
-- One-page insight summary (Problem → Approach → Findings → Recommendation) for each project.
+## Online Courses
+- [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=THANKSLEARNER24)
+- [MERN  FullStack Web Development ](https://courses.30dayscoding.com/courses/MERN-full-stack-web-development-64eebdb8e4b0a14befedc15d)
+- [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/?couponCode=THANKSLEARNER24)
 
----
 
-## How to view / run my analytics work
-1. Open the Google Colab / Jupyter notebook link in each project.  
-2. Install dependencies: `pandas`, `numpy`, `matplotlib`, `scikit-learn`.  
-3. Run cells top → bottom.  
-4. View the linked Power BI report for interactive dashboards and check the README’s “insights” section for TL;DR.
+<!--
+**Var2299/Var2299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
