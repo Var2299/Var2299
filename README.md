@@ -40,7 +40,7 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Important projects
 Here are some of my key projects:
   
-### DocSync-App
+### AI-Meeting-Summarizer
 - [AI-Meeting-Summarizer](https://github.com/Var2299/AI-Meeting-Summarizer)
 
 ### Personal-Finance-Visualizer
