@@ -43,9 +43,6 @@ Here are some of my key projects:
 ### Cashflow-Core
 - [Cashflow-Core](https://github.com/Var2299/Cashflow-Core)
 
-### Ride-Pooling-Optimizer
-- [Ride-Pooling-Optimizer](https://github.com/Var2299/Ride-Pooling-Optimizer)
-
 ### Personal-Finance-Visualizer
 - [Personal-Finance-Visualizer](https://github.com/Var2299/Personal-Finance-Visualizer)
 
