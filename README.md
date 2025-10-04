@@ -43,8 +43,8 @@ Here are some of my key projects:
 ### Cashflow-Core
 - [Cashflow-Core](https://github.com/Var2299/Cashflow-Core)
 
-### Personal-Finance-Visualizer
-- [Personal-Finance-Visualizer](https://github.com/Var2299/Personal-Finance-Visualizer)
+### MeetWise AI
+- [MeetWise-AI](https://github.com/Var2299/MeetWise-AI-)
 
 
 ## Social Media
