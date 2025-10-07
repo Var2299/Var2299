@@ -1,73 +1,69 @@
-## About-me 👋
-I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Looking forward to using advanced tools to deliver impactful solutions in tech.
+# Varun Singh 👋
 
+**Aspiring Data Analyst & AI Engineer**
 
-## Languages and tools
+I build practical, data-driven and ML-enabled projects focused on data cleaning, model development, evaluation, and clear reproducible analysis. My repositories include notebooks, evaluation metrics, and short demos that highlight model behavior and limitations.
 
-### Programming Languages
-| JavaScript | C++ | C |
-|:----------:|:---:|:-:|
-| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
+---
 
+## Summary
 
+* Practical experience in end-to-end data workflows: exploratory data analysis, feature engineering, model training, evaluation and reproducibility.
+* Emphasis on clear documentation, model transparency (model cards / evaluation), and reproducible notebooks that reviewers can run and inspect.
 
+---
 
-### Web Technologies
-| Next.js | React.js | Node.js | Express.js | HTML |
-|:-------:|:--------:|:-------:|:----------:|:----:|
-|<img src="frameworks/next.png" alt="" width="100" height="100">|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="60">|<img src="html.png" alt="" width="100" height="100">|
+## Skills & Technologies
 
-| CSS | Tailwind |
-|:---:|:--------:|
-|<img src="css.png" alt="" width="100" height="100">|<img src="frameworks/tail.png" alt="" width="100" height="100">|
+**Data & ML**
 
+* Python · pandas · NumPy · scikit-learn · XGBoost · Prophet · basic PyTorch
+* SQL (analysis & joins) · exploratory data analysis (EDA) · feature engineering
+* Model evaluation: cross-validation, RMSE/MAE, precision/recall, ROC/PR curves
 
-### Database
-| MongoDB | 
-|:-------:|
-|<img src="databases/mongodb.svg" alt="" width="100" height="100">|
+**MLOps & Reproducibility**
 
-### Authentication
-| Clerk |
-|:-----:|
-|<img src="frameworks/clerk.png" alt="" width="100" height="100">|
+* Experiment tracking concepts, reproducible notebooks, scripted data pipelines, and lightweight reproducibility instructions (one-command notebooks / `requirements.txt`).
 
-### Tools
-| Git | GitHub | VS Code | 
-|:---:|:------:|:-------:|
-|<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|
+**Tools**
 
-## Important projects
-Here are some of my key projects:
-  
-### churn-analysis
-- [churn-analysis](https://github.com/Var2299/churn-analysis)
+* Git, GitHub, VS Code, Jupyter Notebooks, Colab
 
-### E-commerce-RFM-Product-Prioritization
-- [E-commerce-RFM-Product-Prioritization](https://github.com/Var2299/E-commerce-RFM-Product-Prioritization)
+---
 
+## Resume-ready bullets
 
-## Social Media
+* **Churn Analysis & Prediction:** Performed EDA and built a logistic regression churn model on the Telco Customer Churn dataset; reported ROC AUC ≈ 0.83, produced business KPIs and three actionable retention strategies in `ChurnAnalysis.pdf`.
+* **RFM Analysis & Product Prioritization:** Conducted RFM segmentation on the Online Retail dataset to identify high-value customer segments; produced forecasting-ready insights, revenue trend visualizations, and prioritized products for promotion.
 
-[Linked in](https://www.linkedin.com/in/varun-singh-0a3a67175/)
+---
 
-## Online Courses
-- [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=THANKSLEARNER24)
-- [MERN  FullStack Web Development ](https://courses.30dayscoding.com/courses/MERN-full-stack-web-development-64eebdb8e4b0a14befedc15d)
-- [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/?couponCode=THANKSLEARNER24)
+## Contact
 
+* **Demo GIFs**: short 30–60s GIFs for key flows are included in each repo for a quick glance.
+* **Notebooks**: every ML project includes an EDA notebook and a model evaluation notebook.
+* **How to run**: each project has a simple `requirements.txt` and a short `README` section with steps to reproduce core notebooks.
 
-<!--
-**Var2299/Var2299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Resume-ready bullets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **AI Meeting Summarizer:** Processed transcripts and evaluated multiple LLM prompt strategies; implemented ROUGE-based evaluation and published reproducible notebooks documenting model behavior and failure modes.
+* **Personal Finance Visualizer:** Built forecasting and anomaly-detection pipelines for transactional data; compared models (Prophet/XGBoost) and provided visual explanations for forecast and anomaly outputs.
+* **Cashflow Core:** Implemented a minimal-settlement algorithm with integer-cent precision and comprehensive unit tests; validated correctness across multiple edge-case scenarios.
+
+---
+
+## Contact
+
+* Varun Singh — Gurugram, India
+* Email: [vs95764@gmail.com](mailto:vs95764@gmail.com)
+* Phone: +91-9958279439
+* GitHub: **Var2299**
+
+---
+
+If you want, I can now:
+
+* Create concise 3-bullet TL;DR headers for each repo README (data-focused), or
+* Draft 30s demo scripts and GIF checklists for the two priority projects (Meeting Summarizer, Finance Visualizer).
