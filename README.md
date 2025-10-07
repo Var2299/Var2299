@@ -40,11 +40,11 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Important projects
 Here are some of my key projects:
   
-### Cashflow-Core
-- [Cashflow-Core](https://github.com/Var2299/Cashflow-Core)
+### churn-analysis
+- [churn-analysis](https://github.com/Var2299/churn-analysis)
 
-### MeetWise AI
-- [MeetWise-AI](https://github.com/Var2299/MeetWise-AI-)
+### E-commerce-RFM-Product-Prioritization
+- [E-commerce-RFM-Product-Prioritization](https://github.com/Var2299/E-commerce-RFM-Product-Prioritization)
 
 
 ## Social Media
