@@ -16,7 +16,7 @@ I build practical, data-driven and ML-enabled projects focused on data cleaning,
 
 **Data & ML**
 
-* Python · pandas · NumPy · scikit-learn · XGBoost · Prophet · basic PyTorch
+* Python · pandas · NumPy · scikit-learn · basic PyTorch
 * SQL (analysis & joins) · exploratory data analysis (EDA) · feature engineering
 * Model evaluation: cross-validation, RMSE/MAE, precision/recall, ROC/PR curves
 
@@ -47,8 +47,3 @@ I build practical, data-driven and ML-enabled projects focused on data cleaning,
 * GitHub: **Var2299**
 
 ---
-
-If you want, I can now:
-
-* Create concise 3-bullet TL;DR headers for each repo README (data-focused), or
-* Draft 30s demo scripts and GIF checklists for the two priority projects (Meeting Summarizer, Finance Visualizer).
