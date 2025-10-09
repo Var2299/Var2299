@@ -1,13 +1,13 @@
 ## About-me 👋
-I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Looking forward to using advanced tools to deliver impactful solutions in tech.
+I’m focused on honing my software engineering skills, with experience in building efficient, scalable systems to solve complex problems. I’m passionate about writing clean, maintainable code and leveraging advanced tools and frameworks to create high-impact, tech-driven solutions. Excited to apply my skills in designing and optimizing software architectures to deliver innovative results.
 
 
 ## Languages and tools
 
 ### Programming Languages
-| TypeScript | JavaScript | C++ | C |
-|:----------:|:----------:|:---:|:-:|
-| <img src="frameworks/ts.png" alt="" width="100" height="100">| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
+| JavaScript | C++ | C |
+|:----------:|:---:|:-:|
+| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
 
 
 
@@ -17,15 +17,15 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 |:-------:|:--------:|:-------:|:----------:|:----:|
 |<img src="frameworks/next.png" alt="" width="100" height="100">|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="60">|<img src="html.png" alt="" width="100" height="100">|
 
-| CSS | Tailwind | Liveblocks |
-|:---:|:--------:|:---------:|
-|<img src="css.png" alt="" width="100" height="100">|<img src="frameworks/tail.png" alt="" width="100" height="100">|<img src="frameworks/lb.png" alt="" width="100" height="100">|
+| CSS | Tailwind |
+|:---:|:--------:|
+|<img src="css.png" alt="" width="100" height="100">|<img src="frameworks/tail.png" alt="" width="100" height="100">|
 
 
 ### Database
-| MongoDB | Convex |
-|:-------:|:------:|
-|<img src="databases/mongodb.svg" alt="" width="100" height="100">|<img src="frameworks/ccv.png" alt="" width="100" height="100">|
+| MongoDB | 
+|:-------:|
+|<img src="databases/mongodb.svg" alt="" width="100" height="100">|
 
 ### Authentication
 | Clerk |
@@ -40,14 +40,11 @@ I am dedicated to becoming proficient in full-stack web development, having deve
 ## Important projects
 Here are some of my key projects:
   
-### DocSync-App
-- [DocSync-App](https://github.com/Var2299/DocSync-App)
+### MeetWise AI
+- [MeetWise AI](https://github.com/Var2299/MeetWise-AI-)
 
-### Personal-Finance-Visualizer
-- [Personal-Finance-Visualizer](https://github.com/Var2299/Personal-Finance-Visualizer)
-
-### AI-Enhanced-PDF-Generator
-- [AI-Enhanced-PDF-Generator](https://github.com/Var2299/AI-Enhanced-PDF-Generator)
+### Cashflow Core
+- [Cashflow Core](https://github.com/Var2299/Cashflow-Core)
 
 ## Social Media
 
