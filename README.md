@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varun Singh | Data Analyst
 
-![Header](<img width="1024" height="1024" alt="Gemini_Generated_Image_4c3ago4c3ago4c3a" src="https://github.com/user-attachments/assets/b7116f78-fd22-4202-be58-c2a2026bf0c8" />) <!-- Add your banner image -->
+<img width="1024" height="1024" alt="Gemini_Generated_Image_4c3ago4c3ago4c3a" src="https://github.com/user-attachments/assets/03b1a126-eb5c-4354-9c4f-be06b961ea67" />
 
 **Data Analyst | Python | SQL | Power BI | Business Intelligence**
 
