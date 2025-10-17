@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Varun Singh | Data Analyst
 
-<p align="center">
-  <img width="1024" height="1024" alt="Gemini_Generated_Image_4c3ago4c3ago4c3a" src="https://github.com/user-attachments/assets/f5bbcf62-9691-4cd0-8d6a-3e9568b01def" />
-</p>
 **Data Analyst | Python | SQL | Power BI | Business Intelligence**
 
 I transform raw data into actionable insights that drive business decisions and optimize operations. Passionate about uncovering patterns, building predictive models, and creating data-driven solutions.
