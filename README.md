@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varun Singh | Data Analyst
 
-![Header](https://github.com/user-attachments/assets/banner-image) <!-- Add your banner image -->
+![Header](<img width="1024" height="1024" alt="Gemini_Generated_Image_4c3ago4c3ago4c3a" src="https://github.com/user-attachments/assets/b7116f78-fd22-4202-be58-c2a2026bf0c8" />) <!-- Add your banner image -->
 
 **Data Analyst | Python | SQL | Power BI | Business Intelligence**
 
@@ -14,7 +14,7 @@ I transform raw data into actionable insights that drive business decisions and 
 [![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/yourusername/quickbite-analytics)
 *Python · Pandas · Power BI · Statistical Analysis*
 
-- Analyzed 10,000+ delivery records to identify operational bottlenecks
+- Analyzed delivery data to define KPIs: Avg Time 35.2 min, On-Time Rate 42.8% (<30 min)
 - Built interactive Power BI dashboard showing delivery performance metrics
 - Developed optimization strategies potentially reducing delivery times by 25%
 - **Key Insight**: Discovered 0.72 correlation between distance and delivery time
@@ -48,19 +48,6 @@ I transform raw data into actionable insights that drive business decisions and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Varun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_title=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
-
-</div>
 
 ---
 
