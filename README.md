@@ -9,7 +9,7 @@ I transform raw data into actionable insights that drive business decisions and 
 ## 🚀 Featured Projects
 
 ### 🔥 QuickBite Analytics: Delivery Time Optimization
-[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/yourusername/quickbite-analytics)
+[![View Project](https://img.shields.io/badge/View-Project-blue)](https://github.com/Var2299/QuickBite-Analytics-Delivery-Time-Optimization)
 *Python · Pandas · Power BI · Statistical Analysis*
 
 - Analyzed delivery data to define KPIs: Avg Time 35.2 min, On-Time Rate 42.8% (<30 min)
@@ -18,7 +18,7 @@ I transform raw data into actionable insights that drive business decisions and 
 - **Key Insight**: Discovered 0.72 correlation between distance and delivery time
 
 ### 🏪 Amazon Market Intelligence: Pricing & Category Analytics  
-[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/yourusername/amazon-market-intelligence)
+[![View Project](https://img.shields.io/badge/View-Project-green)](https://github.com/Var2299/Amazon-Market-Intelligence-Pricing-Category-Analytics)
 *Python · Pandas · Matplotlib · EDA*
 
 - Conducted market analysis of 10,000+ Amazon products across categories
