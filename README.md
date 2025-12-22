@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-I am an **aspiring Data Analyst** with a knack for finding patterns in the chaos. I specialize in taking messy datasets and turning them into clean, visual stories that help businesses grow.
+I am an **Aspiring Data Analyst** with a knack for finding patterns in the chaos. I specialize in taking messy datasets and turning them into clean, visual stories that help businesses grow.
 
 - 📈 **Focus:** Exploratory Data Analysis (EDA) & Market Intelligence.
 - 🐍 **Tech:** Living in Jupyter Notebooks with Pandas and Seaborn.
