@@ -19,14 +19,19 @@ I am a **Data Analyst Fresher** with a knack for finding patterns in the chaos. 
 
 ---
 
-## 🛠️ The Toolkit
+## 🛠️ My Data Toolkit
+
+Here are the tools I use to crunch numbers and create visuals.
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+
+| **Data Manipulation & Analysis** | **Visualization & Reporting** | **Tools & Environment** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | |
+
 </div>
 
 ---
@@ -39,7 +44,7 @@ I am a **Data Analyst Fresher** with a knack for finding patterns in the chaos. 
 - **Insight:** Identified a 40% delay surge during dinner hours due to radius inefficiency.
 - **Impact:** Recommended zone-scaling to boost retention by 15%.
 
-### 🛒 Amazon Market Intelligence | [View Code](YOUR_LINK_HERE)
+### 🛒  [Amazon Market Intelligence](https://github.com/Var2299/Amazon-Market-Intelligence-Pricing-Category-Analytics) | [View Code](https://github.com/Var2299/Amazon-Market-Intelligence-Pricing-Category-Analytics/blob/main/Amazon_Market_Intelligence.ipynb)
 > **Challenge:** Finding "Market Gaps" for high-margin products.
 - **Action:** Built a competitiveness-mapping tool with Seaborn.
 - **Insight:** Spotted "Premium Gaps" (low competition/high price) in specific electronics categories.
