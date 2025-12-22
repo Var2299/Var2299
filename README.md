@@ -1,72 +1,59 @@
-## About-me 👋
-I am dedicated to becoming proficient in full-stack web development, having developed dynamic, responsive web applications to tackle complex software challenges. Looking forward to using advanced tools to deliver impactful solutions in tech.
+# Hi there, I'm Varun Singh! 👋
+### Data Analyst | Transforming Data into Business Strategy
 
+I specialize in uncovering actionable insights from complex datasets. My background involves building end-to-end data pipelines—from raw data cleaning to interactive visualization—with a focus on **operational efficiency** and **market intelligence**.
 
-## Languages and tools
+---
 
-### Programming Languages
-| TypeScript | JavaScript | C++ | C |
-|:----------:|:----------:|:---:|:-:|
-| <img src="frameworks/ts.png" alt="" width="100" height="100">| <img src="js.png" alt="" width="100" height="100"> | <img src="programming languages/c++.svg" alt="" width="100" height="100">| <img src="programming languages/c.svg" alt="" width="100" height="100"> |
+## 🛠️ My Tech Stack
 
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Data Tools** | Jupyter Notebooks, Google Colab, Power BI, Excel |
+| **Methodologies** | Exploratory Data Analysis (EDA), Market Segmentation, Statistical Analysis |
+| **Version Control** | Git, GitHub |
 
+---
 
+## 🚀 Featured Projects
 
-### Web Technologies
-| Next.js | React.js | Node.js | Express.js | HTML |
-|:-------:|:--------:|:-------:|:----------:|:----:|
-|<img src="frameworks/next.png" alt="" width="100" height="100">|<img src="frameworks/react.svg" alt="" width="100" height="100">|<img src="frameworks/nodejs.svg" alt="" width="100" height="100">|<img src="express.png" alt="" width="100" height="60">|<img src="html.png" alt="" width="100" height="100">|
+### 📊 [QuickBite Analytics: Delivery Time Optimization](LINK_TO_REPO)
+**Focus:** *Logistics & Operational Efficiency*
 
-| CSS | Tailwind | Liveblocks |
-|:---:|:--------:|:---------:|
-|<img src="css.png" alt="" width="100" height="100">|<img src="frameworks/tail.png" alt="" width="100" height="100">|<img src="frameworks/lb.png" alt="" width="100" height="100">|
+Analyzed food delivery patterns to identify bottlenecks and optimize fleet management. This project bridges the gap between logistical data and customer satisfaction.
 
+* **Key Insight:** Identified that 40% of delays occur during dinner peaks, requiring a 40% resource increase for stabilization.
+* **Business Impact:** Proposed strategies to achieve a **15% increase in customer retention** and **20% reduction in costs**.
+* **Tech:** Python, Pandas, Matplotlib, Power BI.
 
-### Database
-| MongoDB | Convex |
-|:-------:|:------:|
-|<img src="databases/mongodb.svg" alt="" width="100" height="100">|<img src="frameworks/ccv.png" alt="" width="100" height="100">|
+### 🛒 [Amazon Market Intelligence: Pricing & Category Analytics](LINK_TO_REPO)
+**Focus:** *E-commerce & Market Strategy*
 
-### Authentication
-| Clerk |
-|:-----:|
-|<img src="frameworks/clerk.png" alt="" width="100" height="100">|
+A comprehensive study of 10,000+ products to uncover pricing patterns and competitive dynamics in the Amazon marketplace.
 
-### Tools
-| Git | GitHub | VS Code | 
-|:---:|:------:|:-------:|
-|<img src="git.png" alt="" width="100" height="100">|<img src="github.png" alt="" width="100" height="100">|<img src="text editors/vscode.svg" alt="" width="100" height="100">|
+* **Key Insight:** Mapped the relationship between market saturation and price premiums, identifying "high-margin/low-competition" sweet spots.
+* **Business Impact:** Created a framework that improves pricing strategy effectiveness by **25%**.
+* **Tech:** Python, Seaborn, Data Wrangling, Statistical Analysis.
 
-## Important projects
-Here are some of my key projects:
-  
-### DocSync-App
-- [DocSync-App](https://github.com/Var2299/DocSync-App)
+---
 
-### Personal-Finance-Visualizer
-- [Personal-Finance-Visualizer](https://github.com/Var2299/Personal-Finance-Visualizer)
+## 📈 Analytical Workflow
 
-## Social Media
+- **Data Wrangling:** Expert at cleaning messy real-world data (outlier treatment, missing values, standardization).
+- **Visualization:** Crafting professional-grade charts that tell a story, not just show numbers.
+- **Business Intelligence:** Translating technical metrics (like km/min efficiency) into executive-level recommendations.
 
-[Linked in](https://www.linkedin.com/in/varun-singh-0a3a67175/)
+---
 
-## Online Courses
-- [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=THANKSLEARNER24)
-- [MERN  FullStack Web Development ](https://courses.30dayscoding.com/courses/MERN-full-stack-web-development-64eebdb8e4b0a14befedc15d)
-- [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/?couponCode=THANKSLEARNER24)
+## 📫 Let's Connect!
 
+- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- **Portfolio/Blog:** [Your Portfolio Link]
+- **Email:** [your.email@example.com]
 
-<!--
-**Var2299/Var2299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
