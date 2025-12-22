@@ -1,4 +1,4 @@
-# <p align="center">✨ Hi, I'm [Your Name]! ✨</p>
+# <p align="center">✨ Hi, I'm Varun Singh! ✨</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=33BBFF&center=true&vCenter=true&width=600&lines=Data+Analyst+in+the+Making;Turning+Data+Into+Decisions;Python+%2B+SQL+Enthusiast;Visualizing+the+Future" alt="Typing SVG" />
