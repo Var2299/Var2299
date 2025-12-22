@@ -33,7 +33,7 @@ I am a **Data Analyst Fresher** with a knack for finding patterns in the chaos. 
 
 ## 📂 Featured Projects
 
-### 🍕 QuickBite Analytics | [YOUR_LINK_HERE](https://github.com/Var2299/QuickBite-Analytics-Delivery-Time-Optimization)
+### 🍕 [QuickBite Analytics](https://github.com/Var2299/QuickBite-Analytics-Delivery-Time-Optimization) | [View Code](https://github.com/Var2299/QuickBite-Analytics-Delivery-Time-Optimization/blob/main/QuickBite_Analytics.ipynb)
 > **Challenge:** Reducing delivery bottlenecks during peak hours.
 - **Action:** Analyzed 10k+ rows of delivery data using Python.
 - **Insight:** Identified a 40% delay surge during dinner hours due to radius inefficiency.
