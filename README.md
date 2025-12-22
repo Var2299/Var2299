@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-Aspiring Data Analyst skilled in uncovering patterns from complex datasets and converting raw data into clear, actionable visual insights that support business growth.
+**Aspiring Data Analyst** skilled in uncovering patterns from complex datasets and converting raw data into clear, actionable visual insights that support business growth.
 
 - 📈 **Focus:** Exploratory Data Analysis (EDA) & Market Intelligence.
 - 🐍 **Tech:** Living in Jupyter Notebooks with Pandas and Seaborn.
