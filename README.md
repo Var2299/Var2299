@@ -1,67 +1,101 @@
-# ⚡ Senior Data Analyst | Decision Architect ⚡
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋+I'm+Varun Singh;An+Aspiring+Data+Analyst+📊;Turning+Messy+Data+into+Clear+Insights+💡;Python+%7C+Pandas+%7C+Visualization+🚀&font=Fira+Code&center=true&width=500&height=50&color=336699&vCenter=true&size=25" alt="Typing SVG">
+  </a>
+</h1>
 
-![Header Image](https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=DATA%20INTO%20DOLLARS&fontSize=70&animation=fadeIn&fontAlignY=35)
-
-## 💡 The Mission
-> "Data is just noise until you find the signal that drives growth." 
-
-I don't just build dashboards; I build **decision engines**. With a focus on **E-commerce Intelligence** and **Logistics Optimization**, I specialize in transforming messy, high-volume datasets into strategic roadmaps that increase retention, reduce costs, and maximize ROI.
-
----
-
-## 🛠️ The War Chest
-
-| 🧠 Core Competencies | 🔧 Tech Stack | 📊 Visual Excellence |
-| :--- | :--- | :--- |
-| Exploratory Data Analysis (EDA) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
-| Statistical Hypothesis Testing | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) |
-| Market Segmentation & Targeting | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white) |
-| Business Impact Quantification | ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
-
----
-
-## 🚀 High-Impact Case Studies
-
-### 🍕 [QuickBite Analytics: Delivery Optimization](https://github.com/YOUR_USERNAME/quickbite)
-**Challenge:** Delivery bottlenecks during peak hours were eroding customer trust and burning operational budget.
-* **The Solution:** Built a Python-driven analysis engine to correlate distance vs. delivery speed across 10,000+ data points.
-* **The "God Level" Results:** * 📍 **Optimized Fleet:** Identified 40% resource deficit during dinner peaks.
-    * 📉 **Cost Cut:** Proposed zone-planning that reduces delivery travel by **20%**.
-    * ⭐ **CX Boost:** Projected **15% increase in retention** by shaving 5 mins off average delivery times.
-
-### 📦 [Amazon Market Intelligence: Pricing ROI](https://github.com/YOUR_USERNAME/amazon-intel)
-**Challenge:** Saturated marketplace making it impossible for sellers to identify high-margin entry points.
-* **The Solution:** Developed a "Competitiveness Mapping" framework using Seaborn and Pandas to spot market gaps.
-* **The "God Level" Results:**
-    * 💰 **Revenue Optimization:** Framework increased pricing effectiveness by **25%**.
-    * 🔍 **Alpha Discovery:** Successfully mapped "Premium Gaps" (High price, low competition segments).
-    * ⚡ **Efficiency:** Automated a cleaning pipeline that handles **10,000+ SKU records** in seconds.
-
----
-
-## 📈 My Analytical DNA
-
-- **01. Ingestion:** Scouring raw CSVs/SQL Databases for hidden gems.
-- **02. Transformation:** Turning "Garbage In" into "Gold Out" via advanced Pandas pipelines.
-- **03. Visualization:** Creating high-fidelity charts that a CEO can understand in 5 seconds.
-- **04. Recommendation:** Always ending a project with **Three Actionable Business Steps**.
-
----
-
-## 📊 Performance Metrics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Let's Architect the Future
-I am looking to join a team where data is the core of the culture.
-
-- 📧 **Email:** [yourname@example.com]
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 **Portfolio:** [Your Portfolio Link]
-
----
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnY3Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP6S2vLUnX-s/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndnY3Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4Znd4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP6S2vLUnX-s/giphy.gif" width="200" alt="Data Animation">
+</p>
+
+<h3 align="center">✨ Analyzing the past to visualize the future. ✨</h3>
+
+---
+
+## 🚀 About Me
+
+I'm a passionate fresher in the world of Data Analytics. I love the detective work of diving into raw datasets, cleaning up the noise, and using statistical methods to find the hidden stories that drive smarter business decisions. I'm eager to apply my skills in Python and data visualization to real-world challenges.
+
+* 🔭 I’m currently working on advancing my **SQL** and **Machine Learning** basics.
+* 🌱 I’m currently learning how to build interactive dashboards in **Tableau**.
+* 👯 I’m looking to collaborate on open-source data analysis projects.
+
+---
+
+## 🛠️ My Data Toolkit
+
+Here are the tools I use to crunch numbers and create visuals.
+
+<div align="center">
+
+| **Data Manipulation & Analysis** | **Visualization & Reporting** | **Tools & Environment** |
+| :---: | :---: | :---: |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white) | ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | |
+
+</div>
+
+---
+
+## 📂 Featured Portfolio Projects
+
+### 🍕 QuickBite Analytics: Delivery Optimization
+**What I did:** Analyzed food delivery data to find out why orders were late.
+<img align="right" src="https://media.giphy.com/media/Su5sZlbXYQrqw/giphy.gif" width="100" alt="Delivery GIF">
+
+* **The Goal:** Reduce delivery times and improve customer happiness.
+* **My Approach:** Used Python & Pandas to clean 10,000+ records and Matplotlib to visualize peak hours.
+* **Key Finding:** Discovered that 40% of delays happened during specific "dinner rush" windows and in zones further than 5km.
+* **Value:** Provided data-backed recommendations for zone-planning that could increase retention by ~15%.
+
+### 🛒 Amazon Market Intelligence: Pricing Strategy
+**What I did:** Scraped and analyzed e-commerce data to understand pricing trends.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q4ZmdzM3R5ZmdzM3R5ZmdzM3R5ZmdzM3R5ZmdzM3R5ZmdzM3R5ZmdzM3R5JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/IgGLB4h5g765A0zBjA/giphy.gif" width="100" alt="Shopping GIF">
+
+* **The Goal:** Help sellers find the "sweet spot" for pricing their products.
+* **My Approach:** Built a "Competitiveness Map" using Seaborn scatter plots to compare price vs. number of competitors.
+* **Key Finding:** Identified specific product categories with high prices but low competition (high opportunity gaps).
+* **Value:** Created a reusable framework to improve pricing strategy effectiveness by an estimated 25%.
+
+---
+
+## 📊 My GitHub Activity
+
+These stats update automatically to show my coding journey!
+
+<p align="center">
+<a href="https://github.com/Var2299">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Var2299&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Var2299&layout=compact&langs_count=7&theme=tokyonight"/>
+</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Var2299&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to feedback, interesting data discussions, or job opportunities.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-singh-0a3a67175/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR.EMAIL@EXAMPLE.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="LINK_TO_YOUR_PORTFOLIO_WEBSITE">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+  <br>
+  <img src="https://media.giphy.com/media/DuLd6UeQ3QtRC/giphy.gif" width="80" alt="Waving Pikachu">
 </p>
