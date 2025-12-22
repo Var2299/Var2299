@@ -53,15 +53,21 @@ Here are the tools I use to crunch numbers and create visuals.
 ---
 
 ## 📈 My Analytical Workflow
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,mysql,powerbi,tableau,github&perline=6" />
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 1. **Extraction:** Gathering data from SQL/CSVs.
 2. **Cleaning:** Removing noise and handling outliers (Pandas).
 3. **Exploration:** Finding correlations and trends (EDA).
 4. **Action:** Delivering insights that save money and time.
-
+   
 ---
 
 ## 📫 Let's Connect!
