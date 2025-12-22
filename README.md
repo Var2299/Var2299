@@ -72,5 +72,4 @@ Here are the tools I use to crunch numbers and create visuals.
 
 <p align="center">
   <b>Built with ❤️ and Data</b><br>
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=auto&height=20&section=footer" width="100%"/>
 </p>
