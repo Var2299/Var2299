@@ -21,15 +21,15 @@ I am a Data Science graduate focused on turning messy data into clear, actionabl
 
 ### 📊 Featured Data Projects
 
-#### [Retail Sales Performance Dashboard](YOUR_LINK_HERE)
+#### [Retail Sales Performance Dashboard](https://github.com/Var2299/Retail-Sales-Performance-Dashboard)
 *   **The Data:** Cleaned and standardized a 9,994-row retail dataset using **MySQL** and **Python**.
 *   **The Strategy:** Developed a single-page **Power BI** dashboard with 4 KPI cards and interactive regional/category slicers.
 *   **Key Insight:** Discovered that discounts above $20\%$ were causing negative profit margins across $18.7\%$ of all orders, leading to a recommendation for managed discount caps.
 
-#### [HR Employee Attrition: Exploratory Data Analysis](YOUR_LINK_HERE)
+#### [HR Employee Attrition: Exploratory Data Analysis](https://github.com/Var2299/HR-Employee-Attrition)
 *   **The Data:** Performed EDA on a 1,470-row HR dataset using **Pandas** and **Seaborn**.
 *   **The Strategy:** Analyzed distributions of income and overtime to identify the primary predictors of staff turnover.
-*   **Key Insight:** Isolated a high-risk employee profile (Sales + Overtime + <2 years tenure) with a $62.1\%$ attrition rate—$3.8x$ the company average.
+*   **Key Insight:** Isolated a high-risk employee profile (Sales + Overtime + <2 years tenure) with a $62.1\%$ attrition rate—$3.8x the company average.
 
 ---
 
@@ -43,9 +43,3 @@ I am a Data Science graduate focused on turning messy data into clear, actionabl
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/varun-singh-0a3a67175/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:vs95764@gmail.com)
-
----
-
-### 📈 GitHub Stats
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Var2299&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Var2299&layout=compact&theme=radical)
