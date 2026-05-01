@@ -1,43 +1,65 @@
-<!-- ========================= -->
-<!--  VARUN SINGH | GITHUB    -->
-<!-- ========================= -->
-
-<h1 align="center">Hey there, I'm Varun Singh 👋</h1>
+<!-- ============================= -->
+<!--        VARUN SINGH           -->
+<!--   GITHUB PROFILE README 2026  -->
+<!-- ============================= -->
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+Builder+%7C+DSA+Enthusiast;Building+production-ready+web+apps+with+Next.js+%26+AI;B.Tech+CSE+%7C+2026+Fresher+%7C+Gurugram%2C+India"
-    alt="Typing SVG"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,50:6d28d9,100:06b6d4&text=Varun%20Singh&fontColor=ffffff&fontSize=56&fontAlign=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20DSA%20Enthusiast&descAlign=50&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Building+modern+AI-powered+web+apps+with+Next.js+%26+Gemini;Turning+ideas+into+clean%2C+fast%2C+production-ready+products;B.Tech+CSE+%7C+2026+Fresher+%7C+Gurugram%2C+India" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Var2299&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Var2299?label=Followers&style=for-the-badge&color=0ea5e9" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-14b8a6?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="mailto:vs95764@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vs95764%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/Var2299">
     <img src="https://img.shields.io/badge/GitHub-Var2299-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:vs95764@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vs95764%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-10B981?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
 
-### ✨ About Me
+<table>
+<tr>
+<td width="58%" valign="top">
 
-I’m a Computer Science student at **Shree Guru Gobind Singh Tricentenary University** graduating in **2026**, with a strong focus on **full-stack development, AI-powered applications, and DSA**.
+### ⚡ About Me
 
-I enjoy building clean, responsive, and useful products that solve real problems.  
-My current sweet spot is combining **Next.js + Gemini API + MongoDB + polished UI** to create fast, modern web apps.
+I’m **Varun Singh**, a **B.Tech Computer Science** student at **Shree Guru Gobind Singh Tricentenary University**, graduating in **2026** with a **CGPA of 8.72**. I like building elegant digital products that feel fast, useful, and modern. :contentReference[oaicite:1]{index=1}
 
-- 📚 B.Tech CSE | CGPA: **8.72**
-- 🧠 200+ DSA problems solved
-- ⚡ Love working on AI-driven web apps
-- 🚀 Focused on writing production-ready code and shipping projects
+My style is simple:
+- build clean UI,
+- connect smart AI,
+- make it work reliably,
+- make it look premium.
+
+I enjoy working across the stack, especially with **Next.js, React, Tailwind CSS, MongoDB, and Gemini API**. :contentReference[oaicite:2]{index=2}
+
+</td>
+<td width="42%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🛠️ What I Build With
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,sql,nextjs,react,tailwind,nodejs,mongodb,git,github,postman,vscode,vercel" />
@@ -45,76 +67,98 @@ My current sweet spot is combining **Next.js + Gemini API + MongoDB + polished U
 
 ---
 
-### 🚀 Featured Projects
+### ✨ Featured Projects
 
-#### **MeetWise AI**
-**Tech:** Next.js, Gemini API, MongoDB, Nodemailer, Vercel
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Built an AI-powered meeting summarization pipeline using **Gemini 2.5 Flash**
-- Transforms raw transcripts into **6 structured modules** like TL;DR, key takeaways, and action items
-- Added **confidence scoring**, secure auth, encrypted storage, and MongoDB history tracking
-- Supports **file/text transcript upload**, history sidebar, and dual-theme responsive UI
-- Optimized for fast generative processing with an end-to-end latency of about **5.5s**
+#### 🚀 MeetWise AI
+**Next.js • Gemini API • MongoDB • Nodemailer • Vercel**
 
-#### **HireScore**
-**Tech:** Next.js, Gemini API, MongoDB, Vercel
+An AI-powered meeting intelligence app that transforms raw transcripts into structured, useful summaries.
 
-- Built a full-stack AI resume analyzer that scores candidate fit against a job description
-- Detects skill gaps and generates a personalized prep roadmap
-- Uses prompt-tuned structured JSON output for reliable analysis
-- Includes persistent scan history and a dedicated detail page for previous results
-- Achieved about **2.2s average end-to-end response time** on Vercel edge deployment
+**What makes it special**
+- Uses **Gemini 2.5 Flash** for transcript processing
+- Converts meetings into **6 structured modules** like TL;DR, key takeaways, and action items
+- Includes **confidence scoring** for data integrity
+- Supports **file uploads** and **text input**
+- Has secure authentication and encrypted persistence
+- Stores history in MongoDB with a polished, responsive UI
+- Built for a fast, practical end-to-end experience
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 HireScore
+**Next.js • Gemini API • MongoDB • Vercel**
+
+A full-stack AI resume analyzer that scores job fit, finds skill gaps, and creates a tailored prep roadmap.
+
+**What makes it special**
+- Evaluates resume vs. job description in a structured way
+- Generates actionable improvement suggestions
+- Uses prompt-tuned **structured JSON output**
+- Stores scan history in MongoDB
+- Includes a detailed history dashboard
+- Built for speed, clarity, and real-world usefulness
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 Achievements
-
-- 🎓 **Academic Merit Scholarship** | Rank 1 in First Year B.Tech
-- 🥇 **Top 3 / 200+** | Xeta X HackerRank Coding Competition
-- 🥉 **Top 4 / 26 teams** | Bumble Jumble Coding Contest
-- 🥈 **2nd / 150+** | Break the Code Coding Competition
-- ✅ **200+ DSA problems solved** on CodeChef and HackerRank
-
----
-
-### 📌 Currently Focused On
-
-- Advanced DSA and problem solving
-- Full-stack engineering with Next.js
-- AI product building using Gemini and modern web stacks
-- Writing cleaner backend logic and better system design fundamentals
-
----
-
-### 📊 GitHub Stats
+### 🏆 Highlights
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Var2299&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Var2299&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=12&margin-h=12" />
+</p>
+
+<table>
+<tr>
+<td>
+
+- 🎓 **Academic Merit Scholarship** — Rank 1 in First Year B.Tech
+- 🥇 **Top 3 / 200+** — Xeta X HackerRank Coding Competition
+- 🥉 **Top 4 / 26 teams** — Bumble Jumble Coding Contest
+- 🥈 **2nd / 150+** — Break the Code Coding Competition
+- 🔥 **200+ DSA problems solved** on CodeChef and HackerRank :contentReference[oaicite:3]{index=3}
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Var2299&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Var2299&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Var2299&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Var2299&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Var2299&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+### 🎨 Currently Building Toward
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vs95764@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/Var2299">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-111827?style=for-the-badge&logo=github" />
-  </a>
-</p>
+```text
+• Stronger DSA and interview readiness
+• Better full-stack system thinking
+• Faster AI app development
+• Cleaner UI/UX with premium polish
+• Scalable backend patterns
 
----
+```
 
-<p align="center">
-  <b>“Build fast. Learn deeply. Ship polished products.”</b>
-</p>
+🌐 Let’s Connect
+<p align="center"> <a href="mailto:vs95764@gmail.com"> <img src="https://img.shields.io/badge/Email-Write%20to%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Var2299"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" /> </p> <p align="center"> <b>Build fast. Learn deeply. Ship beautifully.</b> </p> ```
