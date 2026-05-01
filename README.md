@@ -131,6 +131,8 @@ A full-stack AI resume analyzer that evaluates candidate fit for any job descrip
 ✅ Clean UI with modern frontend libraries
 ✅ Focus on performance, structure, and usability
 
+```
+
 📊 GitHub Stats
 <p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Var2299&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Var2299&layout=compact&hide_border=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Var2299&theme=tokyonight&hide_border=true" /> </p>
 
