@@ -12,8 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Var2299&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Var2299?label=Followers&style=for-the-badge&color=0ea5e9" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-14b8a6?style=for-the-badge" />
 </p>
 
@@ -24,7 +22,7 @@
   <a href="https://github.com/Var2299">
     <img src="https://img.shields.io/badge/GitHub-Var2299-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/">
+  <a href="https://www.linkedin.com/in/varun-singh-0a3a67175/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Gurugram%2C%20India-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -38,7 +36,7 @@
 
 ### ⚡ About Me
 
-I’m **Varun Singh**, a **B.Tech Computer Science** student at **Shree Guru Gobind Singh Tricentenary University**, graduating in **2026** with a **CGPA of 8.72**. I like building elegant digital products that feel fast, useful, and modern. :contentReference[oaicite:1]{index=1}
+I’m **Varun Singh**, a **B.Tech Computer Science** student at **Shree Guru Gobind Singh Tricentenary University**, graduating in **2026** with a **CGPA of 8.72**. I like building elegant digital products that feel fast, useful, and modern. 
 
 My style is simple:
 - build clean UI,
@@ -46,7 +44,7 @@ My style is simple:
 - make it work reliably,
 - make it look premium.
 
-I enjoy working across the stack, especially with **Next.js, React, Tailwind CSS, MongoDB, and Gemini API**. :contentReference[oaicite:2]{index=2}
+I enjoy working across the stack, especially with **Next.js, React, Tailwind CSS, MongoDB, and Gemini API**. 
 
 </td>
 <td width="42%" valign="top">
@@ -134,11 +132,6 @@ A full-stack AI resume analyzer that scores job fit, finds skill gaps, and creat
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Var2299&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Var2299&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Var2299&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -160,5 +153,5 @@ A full-stack AI resume analyzer that scores job fit, finds skill gaps, and creat
 ```
 
 🌐 Let’s Connect
-<p align="center"> <a href="mailto:vs95764@gmail.com"> <img src="https://img.shields.io/badge/Email-Write%20to%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Var2299"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_URL/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <a href="mailto:vs95764@gmail.com"> <img src="https://img.shields.io/badge/Email-Write%20to%20Me-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Var2299"> <img src="https://img.shields.io/badge/GitHub-Follow%20Me-111827?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/varun-singh-0a3a67175/"> <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" /> </p> <p align="center"> <b>Build fast. Learn deeply. Ship beautifully.</b> </p> ```
