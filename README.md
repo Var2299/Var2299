@@ -12,6 +12,12 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-v2qq.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-00f5ff?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%2B%20AI-14b8a6?style=for-the-badge" />
 </p>
 
