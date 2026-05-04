@@ -74,6 +74,24 @@ I enjoy working across the stack, especially with **Next.js, React, Tailwind CSS
 <tr>
 <td width="50%" valign="top">
 
+#### 🚀 DebugDiary
+**Next.js 14 • Google Gemini 2.5 Flash Lite • MongoDB • Mongoose • Tailwind CSS • TypeScript**
+
+An AI-powered personal bug-fixing journal that turns raw errors into structured, searchable fixes — organized by project.
+
+**What makes it special**
+- Uses **Gemini 2.5 Flash Lite** to analyze pasted errors instantly
+- Converts each bug into a structured flow like **What it means, Cause, Step-by-step fix, and Prevention**
+- Supports **Markdown rendering** with syntax-highlighted code blocks
+- Lets you organize bugs by **project** with clean tab-style navigation
+- Includes **search within a project** and **search across all projects**
+- Stores bug history in **MongoDB** with unique per-user project tracking
+- Has a polished dashboard with **bug counts, status badges, and activity tracking**
+- Built for a fast, practical end-to-end debugging experience
+
+</td>
+<td width="50%" valign="top">
+
 #### 🚀 MeetWise AI
 **Next.js • Gemini API • MongoDB • Nodemailer • Vercel**
 
@@ -87,22 +105,6 @@ An AI-powered meeting intelligence app that transforms raw transcripts into stru
 - Has secure authentication and encrypted persistence
 - Stores history in MongoDB with a polished, responsive UI
 - Built for a fast, practical end-to-end experience
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎯 HireScore
-**Next.js • Gemini API • MongoDB • Vercel**
-
-A full-stack AI resume analyzer that scores job fit, finds skill gaps, and creates a tailored prep roadmap.
-
-**What makes it special**
-- Evaluates resume vs. job description in a structured way
-- Generates actionable improvement suggestions
-- Uses prompt-tuned **structured JSON output**
-- Stores scan history in MongoDB
-- Includes a detailed history dashboard
-- Built for speed, clarity, and real-world usefulness
 
 </td>
 </tr>
