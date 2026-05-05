@@ -126,7 +126,7 @@ An AI-powered meeting intelligence app that transforms raw transcripts into stru
 - 🥇 **Top 3 / 200+** — Xeta X HackerRank Coding Competition
 - 🥉 **Top 4 / 26 teams** — Bumble Jumble Coding Contest
 - 🥈 **2nd / 150+** — Break the Code Coding Competition
-- 🔥 **200+ DSA problems solved** on CodeChef and HackerRank :contentReference[oaicite:3]{index=3}
+- 🔥 **200+ DSA problems solved** on CodeChef and HackerRank
 
 </td>
 </tr>
